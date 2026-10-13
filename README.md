@@ -46,16 +46,6 @@ Discord bot development focused on commands, automation, server utilities, and i
 
 ---
 
-## 🎮 Development Focus
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/minecraft/62B47A" alt="Minecraft" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="45" height="45" />
-</p>
-
-**Minecraft Plugin Development** · **Discord Bot Development**
-
 ## Featured Projects
 
 > Selected projects will be featured here as they are published.
