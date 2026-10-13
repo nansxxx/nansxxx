@@ -1,4 +1,4 @@
-# Hi, I'm Nansxxx👋
+# Hi, I'm Nansxxx
 
 ### Minecraft Plugin Developer · Discord Bot Developer
 
@@ -10,11 +10,11 @@ I'm continuously developing my programming skills through hands-on projects, exp
 
 ## About Me
 
-- 🔧 Interested in Minecraft server development and Discord bot development
-- ⛏️ Building custom plugins and gameplay features for Minecraft
-- 🤖 Developing bots to support Discord communities
-- 📚 Focused on writing cleaner, more maintainable code
-- 🌱 Always learning and improving through practical projects
+- Interested in Minecraft server development and Discord bot development
+- Building custom plugins and gameplay features for Minecraft
+- Developing bots to support Discord communities
+- Focused on writing cleaner, more maintainable code
+- Always learning and improving through practical projects
 
 ---
 
@@ -36,11 +36,11 @@ I'm continuously developing my programming skills through hands-on projects, exp
 
 ## Areas of Development
 
-### ⛏️ Minecraft Plugin Development
+### Minecraft Plugin Development
 
 Custom plugin development for Minecraft servers, with an interest in gameplay mechanics, server utilities, and configurable features.
 
-### 🤖 Discord Bot Development
+### Discord Bot Development
 
 Discord bot development focused on commands, automation, server utilities, and improving community management.
 
