@@ -60,20 +60,20 @@ Discord bot development focused on commands, automation, server utilities, and i
 ## GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nansxxx&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nansxxx&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 </p>
 
 ---
 
 ## Connect
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Discord: YOUR_DISCORD_USERNAME
-- Email: YOUR_EMAIL
+- GitHub: [@nansxxx](https://github.com/nansxxx)
+- Discord: nanskiee.0
+- Email: hananmahasinnn@gmail.com
 
 ---
 
