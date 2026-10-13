@@ -26,10 +26,10 @@ I'm continuously developing my programming skills through hands-on projects, exp
   <img src="https://skillicons.dev/icons?i=java,python,js" alt="Programming languages" />
 </p>
 
-**Tools**
+**Tools & Development Environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Development tools" />
 </p>
 
 ---
