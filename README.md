@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Student:** Currently in Junior High School (SMP), learning programming from scratch.
-- 🎮 **Passionate:** Creating custom Minecraft plugins for SMP, Anarchy, and Hardcore servers.
+- 🎮 **Passionate:** Creating custom Minecraft plugins for SMP, Anarchy, and Economy servers.
 - 🤖 **Exploring:** Developing Discord bots to automate and enhance community interactions.
 - 🎯 **Current Goal:** Mastering Java, SQL (SQLite/MySQL), and clean architecture.
 
