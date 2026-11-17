@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nansxxx&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello!%20I'm%20Nansxxx&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
   
-  <h3>💻 Minecraft Plugin & Discord Bot Developer</h3>
-  <p><i>Passionate about building clean, efficient, and immersive experiences for gaming communities.</i></p>
+  <h3>💻 Minecraft Plugin Developer</h3>
+  <p><i>Passionate about building clean, efficient, and immersive experiences for Minecraft servers.</i></p>
 
   <a href="https://github.com/nansxxx">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -16,8 +16,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Student:** Currently in Junior High School (SMP), learning programming from scratch.
-- 🎮 **Passionate:** Creating custom Minecraft plugins for SMP, Anarchy, and Economy servers.
-- 🤖 **Exploring:** Developing Discord bots to automate and enhance community interactions.
+- 🎮 **Passionate:** Creating custom Minecraft plugins for SMP, Anarchy, and Hardcore servers.
 - 🎯 **Current Goal:** Mastering Java, SQL (SQLite/MySQL), and clean architecture.
 
 <br>
@@ -30,28 +29,18 @@
 <br>
 
 ### 🚀 Featured Projects
-*Here are some of the things I've been working on:*
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">ReviveMe Modern</h3>
       <p align="center">
         <a href="https://github.com/nansxxx/ReviveMe">
-          <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" alt="Status" />
-          <img src="https://img.shields.io/badge/Version-1.0.0-green?style=flat-square" alt="Version" />
+          <img src="https://img.shields.io/badge/Status-Released-blue?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Version-1.0.3-green?style=flat-square" alt="Version" />
         </a>
       </p>
-      <p align="center">A hardcore death system with modern resurrection rituals, custom dimensions, and economy integration. Built with Paper API and SQLite.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Discord Utility Bot</h3>
-      <p align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
-        </a>
-      </p>
-      <p align="center">A multi-purpose Discord bot for server management, moderation, and custom commands. Built using JavaScript and Discord.js.</p>
+      <p align="center">A hardcore death system with cinematic resurrection rituals, custom death dimensions, economy integration, and deep RPG mechanics. Built with Paper API, SQLite/MySQL, and WorldGuard integration.</p>
     </td>
   </tr>
 </table>
